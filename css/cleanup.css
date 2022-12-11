@@ -1,1 +1,9 @@
 /* write your override styles here */
+<h2>Override Existing Styles</h2> 
+
+tag-1 {
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: block;
+  }
+  <p><img src="https://curriculum-content.s3.amazonaws.com/fewds-css/css-graffiti-override/inspect1.png" alt="Chrome Dev Tools" title="Open the Chrome dev tools"></p>
